@@ -1,0 +1,15 @@
+html,body {
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    border: 0px;
+    padding: 0;
+    margin: 0;
+    width:100%;
+}
+
+.container {
+	display: inline-block;
+	border-width: 1px;
+	border-color: black;
+	border-style: dotted;
+	min-width: 200px;
+}
